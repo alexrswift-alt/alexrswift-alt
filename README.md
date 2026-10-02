@@ -10,9 +10,8 @@ Below is the list of projects i have been involved in, both team and individual.
 <h2> Coding Specific 💻 </h2>
 
 <h4>
-  <a href="https://github.com/alexrswift-alt/PongGameDesign-" style="text-decoration:none;">
-    <img src="folder.svg" width="20" height="20" alt="Folder">
-    Circular Pong
+  <a href="https://github.com/alexrswift-alt/PongGameDesign-">
+    <img src="https://img.shields.io/badge/📁_Circular_Pong-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
   </a>
 </h4>
 
