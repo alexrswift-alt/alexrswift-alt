@@ -9,11 +9,8 @@
 Below is the list of projects i have been involved in, both team and individual. 
 <h2> Coding Specific 💻 </h2>
 
-<h4>
-  <a href="https://github.com/alexrswift-alt/PongGameDesign-">
-    <img src="https://img.shields.io/badge/📁_Circular_Pong-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
-  </a>
-</h4>
+<h4> [Pong Game]("https://github.com/alexrswift-alt/PongGameDesign-") </h4>
+
 
 
 <h2> CAD Design Specific 📐✍️ </h2>
