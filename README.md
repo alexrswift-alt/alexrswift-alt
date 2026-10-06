@@ -1,7 +1,7 @@
 # Aerospace Engineering Portfolio ✈️
 
  <h2><b> Hi, Im Alex! </b></h2>
- Im in my 1st Year at the University of Birmingham studying Aerospace Engineering. 
+ Im in my 2nd Year at the University of Birmingham studying Aerospace Engineering. 
  
  Listed below are a compilation of all the projects I have been apart of throughout the year. 
 
