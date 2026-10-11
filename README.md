@@ -25,6 +25,9 @@ Below is the list of projects i have been involved in, both team and individual.
 <h2> Construction 🛠️ </h2>
 
 - [📁 Egg Drop Project](https://github.com/alexrswift-alt/EggDrop)
+
+- [📁 Wing Box Team Project](https://github.com/alexrswift-alt/WingBox)
+
 # Contact Me
 
 <h3> Email - </h3>
